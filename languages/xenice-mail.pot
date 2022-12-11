@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenice Mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-28 13:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: xenice-mail"
+
+#: Config.php:64
+msgid "Enable SMTP Auth service"
+msgstr ""
+
+#: Config.php:71
+msgid "Fill in ssl if SMTP Auth service is enabled, leave blank if not"
+msgstr ""
+
+#: Config.php:33
+msgid "From Name"
+msgstr ""
+
+#: Config.php:23
+msgid "Mail"
+msgstr ""
+
+#: Config.php:51
+msgid "Mail Account"
+msgstr ""
+
+#: Config.php:90
+msgid "Mail Content"
+msgstr ""
+
+#: Config.php:57
+msgid "Mail Password"
+msgstr ""
+
+#: Config.php:25 Config.php:29
+msgid "Mail Settings"
+msgstr ""
+
+#: Config.php:84
+msgid "Mail Title"
+msgstr ""
+
+#: Config.php:24
+msgid "Save Changes"
+msgstr ""
+
+#: Config.php:80
+msgid "Send"
+msgstr ""
+
+#: xenice-mail.php:113
+msgid "Send failure"
+msgstr ""
+
+#: Config.php:79
+msgid "Send Mail"
+msgstr ""
+
+#: xenice-mail.php:111
+msgid "Send successfully"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple Mail Plugin"
+msgstr ""
+
+#: Config.php:63
+msgid "SMTP Auth"
+msgstr ""
+
+#: Config.php:39
+msgid "SMTP Host"
+msgstr ""
+
+#: Config.php:45
+msgid "SMTP Port"
+msgstr ""
+
+#: Config.php:70
+msgid "SMTP Secure"
+msgstr ""
+
+#. Name of the plugin
+#: xenice-mail.php:79
+msgid "Xenice Mail"
+msgstr ""

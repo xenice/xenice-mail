@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xenice Mail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-28 12:59+0000\n"
+"PO-Revision-Date: 2022-10-28 13:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: xenice-mail"
+
+#: Config.php:64
+msgid "Enable SMTP Auth service"
+msgstr "启用SMTP认证服务"
+
+#: Config.php:71
+msgid "Fill in ssl if SMTP Auth service is enabled, leave blank if not"
+msgstr "如果启用了SMTP身份验证服务，请填写ssl，否则请留空。"
+
+#: Config.php:33
+msgid "From Name"
+msgstr "发件人名称"
+
+#: Config.php:23
+msgid "Mail"
+msgstr "邮箱"
+
+#: Config.php:51
+msgid "Mail Account"
+msgstr "邮箱账户"
+
+#: Config.php:90
+msgid "Mail Content"
+msgstr "邮件内容"
+
+#: Config.php:57
+msgid "Mail Password"
+msgstr "邮箱密码"
+
+#: Config.php:25 Config.php:29
+msgid "Mail Settings"
+msgstr "邮箱设置"
+
+#: Config.php:84
+msgid "Mail Title"
+msgstr "邮件标题"
+
+#: Config.php:24
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: Config.php:80
+msgid "Send"
+msgstr "发送"
+
+#: xenice-mail.php:113
+msgid "Send failure"
+msgstr "发送失败"
+
+#: Config.php:79
+msgid "Send Mail"
+msgstr "发送邮件"
+
+#: xenice-mail.php:111
+msgid "Send successfully"
+msgstr "发送成功"
+
+#. Description of the plugin
+msgid "Simple Mail Plugin"
+msgstr "简单邮箱插件"
+
+#: Config.php:63
+msgid "SMTP Auth"
+msgstr "SMTP认证"
+
+#: Config.php:39
+msgid "SMTP Host"
+msgstr "SMTP主机"
+
+#: Config.php:45
+#| msgid "SMTP Post"
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+#: Config.php:70
+msgid "SMTP Secure"
+msgstr "SMTP安全"
+
+#. Name of the plugin
+#: xenice-mail.php:79
+msgid "Xenice Mail"
+msgstr "Xenice 邮箱"
